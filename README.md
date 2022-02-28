@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently looking for a developer job
 
-- 👨‍💻 My best projects are here at my portfolio: https://mynewportfolio.netlify.app
+- 👨‍💻 My best projects are here at my portfolio: https://ruchikasnewportfolio.netlify.app
 
 - 📄 Check my resume here: https://drive.google.com/file/d/1f4WeyOjFTB0s-n8I6ES7PbwhqT2b2i4d/view
 
