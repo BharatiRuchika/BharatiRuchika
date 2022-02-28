@@ -16,6 +16,4 @@ jobs:
         with:
           feed_list: "https://bharatiruchika.medium.com/feed"
 
-  # Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ 
