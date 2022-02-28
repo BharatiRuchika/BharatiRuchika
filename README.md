@@ -6,6 +6,6 @@
 <img align="left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 
-# My Blog posts
+<!-- # My Blog posts -->
    <!-- BLOG-POST-LIST:START -->
    <!-- BLOG-POST-LIST:END -->
