@@ -19,7 +19,7 @@
 
 - 📄 Check my resume here: https://drive.google.com/file/d/1xG-KV7HzQ2J6vlptno6auo1p4TEnVCgm/view?usp=sharing
 
-- 📫 Email me at: ruchikabharaticdac@gmail.com
+- 📫 Email me at: ruchikabharati30698@gmail.com
 
 <h3>Favourite tech:</h3>
 <p>
