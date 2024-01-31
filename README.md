@@ -17,7 +17,7 @@
 
 - 👨‍💻 My best projects are here at my portfolio: https://ruchikasnewportfolio.netlify.app
 
-- 📄 Check my resume here: https://drive.google.com/file/d/12sRSbJ8sAhVhsSw5HvwQ3aecLGwZNxCq/view?usp=sharing
+- 📄 Check my resume here: https://drive.google.com/file/d/1fcOO9O5E59K1YIuHLl3uYpa_vf9gPT68/view?usp=sharing
 
 - 📫 Email me at: ruchikabharati30698@gmail.com
 
